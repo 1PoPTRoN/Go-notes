@@ -12,7 +12,7 @@
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 01 | Getting Started — Hello World, Program Structure, `fmt` | [`go-notes.md`](./go-notes.md) | ✅ Done |
+| 01 | Getting Started — Hello World, Program Structure, `fmt` | [`go-notes.md`](./beginner's-guide.md) | ✅ Done |
 | 02 | Variables & Data Types | `coming-soon` | 🔄 Planned |
 | 03 | Control Flow — if, for, switch | `coming-soon` | 🔄 Planned |
 | 04 | Functions & Multiple Return Values | `coming-soon` | 🔄 Planned |
